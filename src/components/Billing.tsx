@@ -1,9 +1,5 @@
-
-
 const Billing = () => {
-  return (
-    <div>Billing</div>
-  )
-}
+  return <div>Billing Trololo</div>;
+};
 
-export default Billing
+export default Billing;
