@@ -8,7 +8,7 @@ const Clients = () => (
         <div
           key={client.id}
           className={`flex-1 ${styles.flexCenter} sm:min-w-[192px] 
-          min-w-[120px] feature-card`}>
+          min-w-[120px] feature-card rounded-[10px]`}>
           <img
             src={client.logo}
             alt="client"
